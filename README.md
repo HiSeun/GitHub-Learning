@@ -33,7 +33,7 @@ Using '*', '-', '+'
         
 ## 4. Codeblock
 We can use two methods to make codeblock.
-### 4.1. "pre code {code} /code /pre" Method 
+### 4.1. ```<pre><code>{code}</code>/pre>``` Method 
 
 <pre>
 <code>
@@ -45,7 +45,7 @@ public class BootSpringBootApplication {
 </code>
 </pre>
 
-### 4.2. "```" Method
+### 4.2. ``` "```" ``` Method
 
 ```
 public class BootSpringBootApplication {
@@ -65,5 +65,9 @@ public class BootSpringBootApplication {
 - - -
 * "----------"
 ----------------
-* "<h r / >"
+* ```<hr/>```
 <hr/>
+
+## 6. Link
+### 6.1. Reference Link
+```
