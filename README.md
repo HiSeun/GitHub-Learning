@@ -154,7 +154,7 @@ __single underscores__
 ```
 
 ## 9. Line change
-If you make 3 or more blanks at the end of the sentence, the line changes.
+If you make ~~3~~ **2(updated)** or more blanks at the end of the sentence, the line changes.
 ```
 You should make at least three blanks to change the line._ _   
 not Like this.
