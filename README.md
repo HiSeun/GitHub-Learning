@@ -31,4 +31,23 @@ Using '*', '-', '+'
         + for '+'
             * also for '*'
         
-
+### 3.3. Codeblock
+We can use two methods to make codeblock.
+* <pre><code>{code}</code></pre> 
+<pre>
+<code>
+public class BootSpringBootApplication {
+    public static void main(String[] args) {
+        System.out.println("Hello, Everyone");
+    }
+}
+</code>
+</pre>
+* ```
+```
+public class BootSpringBootApplication {
+    public static void main(String[] args) {
+        System.out.println("Hello, Everyone");
+    }
+}
+```
