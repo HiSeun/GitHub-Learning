@@ -1,10 +1,11 @@
 # githublearning
 Header Usage Method
-1. Using ======
+Using ======
 ================
-2. Using ------
+Using ------
 ----------------
-3. Using #
+Using #
+--------
 # One #
 ## Two #
 ### Three #
