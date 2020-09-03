@@ -56,8 +56,7 @@ public class BootSpringBootApplication {
 ```
 
 ## 5. Horizontal line 
-* "<h r / >"
-<hr/>
+
 * "* * *" 
 * * *
 * "***"
@@ -66,3 +65,5 @@ public class BootSpringBootApplication {
 - - -
 * "----------"
 ----------------
+* "<h r / >"
+<hr/>
