@@ -161,7 +161,7 @@ not Like this.
 You should make at least three blanks to change the line._ _ _
 Like this.
 ```
-You should make at least three blanks to change the line.  
+You should make at least three blanks to change the line. 
 not Like this.           
 You should make at least three blanks to change the line.       
 Like this. 
