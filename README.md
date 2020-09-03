@@ -45,7 +45,7 @@ public class BootSpringBootApplication {
 </code>
 </pre>
 
-### 4.2. ``` "```" ``` Method
+### 4.2. "```" Method
 
 ```
 public class BootSpringBootApplication {
@@ -70,4 +70,8 @@ public class BootSpringBootApplication {
 
 ## 6. Link
 ### 6.1. Reference Link
+
 ```
+[Link Keyword][URL]
+[Naver][https://www.naver.com]
+[Youtube]: https://www.youtube.com "Go youtube"
