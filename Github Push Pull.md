@@ -11,7 +11,7 @@ Move to the directory where you would like to download the github repository **P
 If you want to build the directory tree as below :
 > Workspace
 >  >  githubLearning
->  >  > ** PushPull **
+>  >  > **PushPull**
 
 ```
 cd Workspace/githubLearning
@@ -57,13 +57,13 @@ Go to your remote repository and check whether change was adapted or not.
 
 ### 4.3. Error
 I experienced several error from the above step.
+#### 4.3.1. Nothing to commit or push
 <img src = "/Shots/pushpull3.png"></img>
-* If there were nothing to commit or push
-    - There should be at least one change and ```git commit``` command, before you push your local repository.
-    
+* There should be at least one change and ```git commit``` command, before you push your local repository.
+
+#### 4.3.2. Origin master problem    
 <img src = "/Shots/pushpull4.png"></img>
-* Origin master problem
-    - It's simple. Just remove your origin master, and reset.
+* It's simple. Just remove your origin master, and reset.
 ```
 git remote rm origin
 git remote add origin "github address~~~~"
@@ -72,4 +72,6 @@ or
 ```
 git remote set-url origin "github address~~~~"
 ```
-
+#### 4.3.3. Changes in remote repository
+<img src = "/Shots/pushpull5.png"></img>
+* It's also simple. Before push your changes, pull the git first and then push again.
