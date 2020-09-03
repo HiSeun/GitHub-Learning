@@ -53,6 +53,7 @@ git commit -m "comment about the change"
 git remote add origin "your git address"
 git push origin master
 ```
+You don't need to command the second line always, do just once.   
 Go to your remote repository and check whether change was adapted or not.
 
 ### 4.3. Error
