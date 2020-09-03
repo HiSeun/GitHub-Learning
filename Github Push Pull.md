@@ -72,6 +72,11 @@ or
 ```
 git remote set-url origin "github address~~~~"
 ```
-#### 4.3.3. Changes in remote repository
+#### 4.3.3. Changes occured in remote repository
 <img src = "/Shots/pushpull5.png"></img>
 * It's also simple. Before push your changes, pull the git first and then push again.
+```
+git pull origin master
+git push origin master
+```
+<img src = "/Shots/pushpull6.png"></img>
