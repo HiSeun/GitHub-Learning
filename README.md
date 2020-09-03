@@ -1,4 +1,4 @@
-# githublearning
+# Github Markdown Learning
 ## 1. Header Usage Method
 
 ### 1.1.Using ======
@@ -33,7 +33,7 @@ Using '*', '-', '+'
         
 ### 3.3. Codeblock
 We can use two methods to make codeblock.
-* " <pre><code>{<pre><code>{code}</code></pre>}</code></pre> " Method 
+* <"pre><code>{code}</code></pre"> Method 
 
 <pre>
 <code>
