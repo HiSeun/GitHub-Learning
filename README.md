@@ -71,23 +71,34 @@ public class BootSpringBootApplication {
 ## 6. Link
 ### 6.1. Reference Link
 
-[Link Keyword][URL]
 ```
-[Naver][https://www.naver.com]
+[Link Keyword][id]
+    [Link Keyworld] is equal to [Naver]   
+    [id] contains two arguments which are -- URL "Optional Title"
+        This optional title shows the optional title when you brings your cursor on to the link.
 ```
-- [Naver][https://www.naver.com]
+* Not using optional title example
 ```
-[Youtube]: https://www.youtube.com "Go youtube"
+Link1 : [Naver][https://www.naver.com]
 ```
-- [Youtube]: https://www.youtube.com "Go youtube"
+    - Link1 : [Naver][https://www.naver.com]
+
+* Using optional title example
+```
+Link2 : [Youtube][YoutubeId]
+[YoutubeId]: https://www.youtube.com "Go youtube"
+```
+    - Link2 : [Youtube][YoutubeId]
+[YoutubeId]: https://www.youtube.com "Go youtube"
 
 ### 6.2. External Link
 
-[Title](link)
+* Using optional title example2
 ```
+[Title](link)
 [Google](https://google.com, "google link")
 ```
-- [Google](https://google.com, "google link")
+    - [Google](https://google.com, "google link")
 
 ### 6.3. Use proper type
 
@@ -95,13 +106,13 @@ public class BootSpringBootApplication {
 ``` 
 External link : <http://example.com>
 ```
-- External link : <http://example.com>
+    - External link : <http://example.com>
 
 * Email link
 ```
-Email link : <address@example.com>
+Email link : (address@example.com)
 ```
-- Email link : <address@example.com>
+    - Email link : (address@example.com)_
 
 ## 7. Emphasis
 If you want to use this in the middle of the sentence, you should use 'space bar' to make blank between others.
@@ -148,5 +159,5 @@ If you make 3 or more blanks at the end of the sentence, the line changes.
 You should make at least three blanks to change the line,  not  Like this.
 You should make at least three blanks to change the line,       Like this.
 ```
-You should make at least three blanks to change the line,  not  Like this.
+You should make at least three blanks to change the line,  not  Like this.   
 You should make at least three blanks to change the line,       Like this.
