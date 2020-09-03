@@ -33,7 +33,8 @@ Using '*', '-', '+'
         
 ### 3.3. Codeblock
 We can use two methods to make codeblock.
-* "<pre><code>{code}</code></pre>" Method 
+* " <pre><code>{<pre><code>{code}</code></pre>}</code></pre> " Method 
+
 <pre>
 <code>
 public class BootSpringBootApplication {
@@ -43,6 +44,7 @@ public class BootSpringBootApplication {
 }
 </code>
 </pre>
+
 * "```" Method
 
 ```
