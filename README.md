@@ -26,8 +26,9 @@ Whether we changes as 1.~~ 3.~~ 2.~~~ It shows 1. 2. 3. sequence.
 
 ### 3.2. Without sequence number
 Using '*', '-', '+'
-* this shows '*'
-    - this shows '-'
-        + this shows '+'
+* for '*'
+    - for '-'
+        + for '+'
+            * also for '*'
         
 
