@@ -33,7 +33,7 @@ Using '*', '-', '+'
         
 ### 3.3. Codeblock
 We can use two methods to make codeblock.
-* <"pre><code>{code}</code></pre"> Method 
+* <<pre><<code>{code}<</code><</pre"> Method 
 
 <pre>
 <code>
