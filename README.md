@@ -81,14 +81,14 @@ public class BootSpringBootApplication {
 ```
 Link1 : [Naver][https://www.naver.com]
 ```
-    - Link1 : [Naver][https://www.naver.com]
+Link1 : [Naver][https://www.naver.com]
 
 * Using optional title example
 ```
 Link2 : [Youtube][YoutubeId]
 [YoutubeId]: https://www.youtube.com "Go youtube"
 ```
-    - Link2 : [Youtube][YoutubeId]
+Link2 : [Youtube][YoutubeId]
 [YoutubeId]: https://www.youtube.com "Go youtube"
 
 ### 6.2. External Link
@@ -98,7 +98,7 @@ Link2 : [Youtube][YoutubeId]
 [Title](link)
 [Google](https://google.com, "google link")
 ```
-    - [Google](https://google.com, "google link")
+[Google](https://google.com, "google link")
 
 ### 6.3. Use proper type
 
@@ -106,13 +106,13 @@ Link2 : [Youtube][YoutubeId]
 ``` 
 External link : <http://example.com>
 ```
-    - External link : <http://example.com>
+External link : <http://example.com>
 
 * Email link
 ```
 Email link : (address@example.com)
 ```
-    - Email link : (address@example.com)_
+Email link : (address@example.com)
 
 ## 7. Emphasis
 If you want to use this in the middle of the sentence, you should use 'space bar' to make blank between others.
@@ -159,5 +159,5 @@ If you make 3 or more blanks at the end of the sentence, the line changes.
 You should make at least three blanks to change the line,  not  Like this.
 You should make at least three blanks to change the line,       Like this.
 ```
-You should make at least three blanks to change the line,  not  Like this.   
-You should make at least three blanks to change the line,       Like this.
+You should make at least three blanks to change the line,  not  Like this.        
+You should make at least three blanks to change the line,            Like this.     
