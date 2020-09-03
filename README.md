@@ -159,5 +159,5 @@ If you make 3 or more blanks at the end of the sentence, the line changes.
 You should make at least three blanks to change the line.  not  Like this.
 You should make at least three blanks to change the line.       Like this.
 ```
-You should make at least three blanks to change the line.  not  Like this.
+You should make at least three blanks to change the line.  not  Like this.           
 You should make at least three blanks to change the line.       Like this. 
